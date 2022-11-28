@@ -16,7 +16,7 @@ const AddExpenseModal = ({ show, handleClose, defaultBudgetId }) => {
     e.preventDefault()
     addExpense(
       {
-        descrtiption: descriptionRef.current.value,
+        description: descriptionRef.current.value,
         amount: parseFloat(amountRef.current.value),
         budgetId: budgetIdRef.current.value
       }
