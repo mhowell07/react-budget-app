@@ -1,5 +1,5 @@
 ## Budget App
-An app built with `React` provide a very simplified way to keep track of your monthy budgets and expenses.
+An app built with `React` to provide a very simplified way of keeping track of your monthy budgets and expenses.
 
 ![Screenshot](./react-budget.png)
 
